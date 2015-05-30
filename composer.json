@@ -1,6 +1,9 @@
 {
     "name": "larvata/yii2ckeditor",
     "description": "ckeditor 4.x for yii2 ( js and asset only)",
+    "license": ["MPL-1.1" ],
+    "homepage": "http://www.larvata.tw",
+    "type": "yii2-extension",
     "authors": [
         {
             "name": "Meng-Yang Lee",
@@ -14,5 +17,5 @@
           "psr-4": {
               "larvata\\yii2ckeditor\\": ""
           }
-    },
+    }
 }
