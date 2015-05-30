@@ -4,10 +4,15 @@
     "authors": [
         {
             "name": "Meng-Yang Lee",
-            "email": "crazylion2@gmail.com"
+            "email": "mengyang@larvata.tw"
         }
     ],
     "require": {
         "ckeditor/ckeditor": "dev-full\/4.4.x" 
-    }
+    },
+    "autoload": {
+          "psr-4": {
+              "larvata\\yii2ckeditor\\": ""
+          }
+    },
 }
