@@ -11,6 +11,7 @@
         }
     ],
     "require": {
+        "yiisoft/yii2": "*",
         "ckeditor/ckeditor": "dev-full/4.4.x" 
     },
     "autoload": {
