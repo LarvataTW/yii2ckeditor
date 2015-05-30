@@ -1,0 +1,13 @@
+{
+    "name": "larvata/yii2ckeditor",
+    "description": "ckeditor 4.x for yii2 ( js and asset only)",
+    "authors": [
+        {
+            "name": "Meng-Yang Lee",
+            "email": "crazylion2@gmail.com"
+        }
+    ],
+    "require": {
+        "ckeditor/ckeditor": "dev-full\/4.4.x" 
+    }
+}
