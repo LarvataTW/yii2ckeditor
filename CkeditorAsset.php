@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace app\assets;
+namespace larvata\yii2ckeditor;
 
 use yii\web\AssetBundle;
 
